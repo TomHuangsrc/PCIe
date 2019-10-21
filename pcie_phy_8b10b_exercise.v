@@ -1,9 +1,6 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    18:39:05 02/26/2018, revised: 7/7/2018, 7/13/2018 
+ 
 // Design Name: 
 // Module Name:    pcie_phy_8b10b 
 // Project Name: 
