@@ -1,7 +1,4 @@
 // elastic_buffer.v
-// Designed by: Diandian Chen 
-// Date: 04/28/2018, 7/14/2018
-// Module description and design plan reviewed by: Gandhi Puvvada
 
 // Description:
 // Elastic buffer (EB) is implemented here using a register array. 
