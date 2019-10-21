@@ -1,5 +1,4 @@
 // decoder_10b_8b_BRAM.v
-// Diandian Chen, 04/28/2018, 7/13/2018
 //
 // Description:
 // It implements the 10b/8b decoder using BRAMs. There are two decoders for running disparity = +1 and
