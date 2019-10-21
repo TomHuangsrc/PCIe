@@ -1,6 +1,4 @@
 // PHY_rx_lane.v
-// Diandian Chen, 05/15/2018, 7/13/2018
-//
 // Description:
 // This is the first part of PHY receiver who's responsible for receiving data from physical lines, decoding and
 // deskewing. It starts with receiving data bits from transmission lines. Then by shifting in data_bit into a
