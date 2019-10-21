@@ -1,5 +1,4 @@
 // PHY_rx.v
-// Diandian Chen, 05/17/2018, 7/13/2018
 //
 // Description:
 // This is the top module for PHY rx. It has two lanes and one unstriping buffer, interfacing with physical transmission
