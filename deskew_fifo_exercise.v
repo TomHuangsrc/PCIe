@@ -1,5 +1,4 @@
 // deskew_fifo.v
-// Diandian Chen, 05/16/2018, 7/13/2018
 //
 // Description:
 // It implements the deskew FIFO. Deskew FIFO comes after EB. 
